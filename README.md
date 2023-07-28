@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tfgrass
-- 👀 I’m interested in IT-Security, Programming, Music, Photography, Communication Strategies/
-- 🌱 I’m currently learning Russian and engaging in Self Improvement.
+- 👀 I’m interested in IT-Security, Programming, Music, Photography, Communication Strategies & Self Improvement.
+- 🌱 I’m currently learning Russian, Vue and Laravel
 
 
 
